@@ -1,4 +1,4 @@
-### Hi!
+# Hi!
 <!--
 **ericf1/ericf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Just an engineer with a lot of experience in full stack and data science.
