@@ -1,6 +1,6 @@
 # Hi!
 
-Currently working on: [Link](https://hotfifty.vercel.app/)
+Currently working on: [https://hotfifty.vercel.app/](https://hotfifty.vercel.app/)
 <!--
 **ericf1/ericf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
