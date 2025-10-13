@@ -1,6 +1,6 @@
 # Hi!
 
-Currently working on: [https://hotfifty.vercel.app/](https://hotfifty.vercel.app/)
+Currently working on: [Spotify in 2024](https://youtu.be/RCNhQ79_tbo) 
 <!--
 **ericf1/ericf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
