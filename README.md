@@ -1,6 +1,7 @@
 # Hi!
 
 Currently working on: [Spotify in 2024](https://youtu.be/5flEkgPuMx0?si=Qms5raS3Yd-l094m) 
+[Personalized Data Chart](https://youtu.be/KN3nfWWCPVw?si=zVLXKH_VTtccD1Xe)
 <!--
 **ericf1/ericf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
